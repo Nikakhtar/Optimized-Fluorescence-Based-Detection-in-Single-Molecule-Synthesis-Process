@@ -11,6 +11,8 @@ https://www.pacb.com/applications/whole-genome-sequencing/
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 این الگوریتم یک بهینه‌سازی سراسری را انجام می‌دهد و با جست و جو در تمام توالی‌های حالت ممکن، یافتن محتمل‌ترین توالی حالت را تضمین می‌کند.
 *الگوریتم ویتربی دارای داده بصورت هاردکد میباشد و میتوان مسیر ویتربی در مثال کلینیک را بدست آورد.
+![Viterbi-algorithm-process-Viterbi-algorithm-process](https://user-images.githubusercontent.com/47872183/151720397-0fd9769c-5cad-410f-b40b-e2055e91f174.png)
+
 ====================================================================================================
 #مقاله مرتبط : https://www.sciencedirect.com/science/article/pii/S0003267002000302
 با موضوع : Fluorescence-based nucleic acid detection and microarrays
